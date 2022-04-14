@@ -47,7 +47,7 @@ Adjusting the DateOfSet helps improve the recal and precision slightly better on
 
 **short_window=10, long_window=200, 6 Month Offset**
 
-1[](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/cum_prod_plot_10_200_6month.png)
+![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/cum_prod_plot_10_200_6month.png)
 ![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/10_200_6_month_results.png)
 
 ## Contributors 
