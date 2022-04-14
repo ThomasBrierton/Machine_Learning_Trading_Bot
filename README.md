@@ -38,12 +38,17 @@ This project uses Jupyter notebook and the standard Python 3.8 libraries. This p
 ![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/cum_prod_plot_6.png)
 ![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/6_month_results.png)
 
-**12 Month Offest**
+Adjusting the DateOfSet helps improve the recal and precision slightly better on the 6 month offset.
 
-![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/cum_prod_plot_12.png)
-![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/12_month_results.png)
+**short_window=10, long_window=200**
 
-Adjusting the DateOfSet helps improve the recal and precision better fort he 12 month offset than the 3 and 6 month offsets.
+![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/cum_prod_plot_10_200.png)
+![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/10_200_results.png)
+
+**short_window=10, long_window=200, 6 Month Offset**
+
+1[](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/cum_prod_plot_10_200_6month.png)
+![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/10_200_6_month_results.png)
 
 ## Contributors 
 
