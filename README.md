@@ -59,7 +59,7 @@ The short_window=10, long_window=200, and the DateOfSet at 6 months helps improv
 ![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/lr_cum_prod_plot.png)
 ![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/lr_results.png)
 
-The results for the logistic regression model are more balanced than the previous models. All models are better at predicting the 1 than the -1 (as seen in all models, but the logistic regression model did a better job at balanced results.
+The results for the logistic regression model show improved precision. The recall for the -1.0 increased, but the recall for the 1.0 decreased compared to the other models. 
 
 ## Contributors 
 
