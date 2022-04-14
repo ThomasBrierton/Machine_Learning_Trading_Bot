@@ -45,10 +45,21 @@ Adjusting the DateOfSet helps improve the recal and precision slightly better on
 ![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/cum_prod_plot_10_200.png)
 ![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/10_200_results.png)
 
+The short_window=10 and the long_window=200 helps imporve the model slightly. 
+
 **short_window=10, long_window=200, 6 Month Offset**
 
 ![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/cum_prod_plot_10_200_6month.png)
 ![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/10_200_6_month_results.png)
+
+The short_window=10, long_window=200, and the DateOfSet at 6 months helps improve the recall for the -1.0. More tuning and choosing different parameters would be helpful to improve the results.
+
+**Logistic Regression Classifier Model**
+
+![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/lr_cum_prod_plot.png)
+![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/lr_results.png)
+
+The results for the logistic regression model are more balanced than the previous models. All models are better at predicting the 1 than the -1 (as seen in all models, but the logistic regression model did a better job at balanced results.
 
 ## Contributors 
 
