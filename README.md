@@ -29,7 +29,9 @@ This project uses Jupyter notebook and the standard Python 3.8 libraries. This p
 ## Results
 
 **3 Month Offest**
+
 ![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/cum_prod_plot_3.png)
+![](https://github.com/ThomasBrierton/Machine_Learning_Trading_Bot/blob/main/Photos/3_month_results.png)
 
 
 ## Contributors 
